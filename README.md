@@ -4,6 +4,7 @@
 * Packet Sniffer
 
 # Tools
+* Huniepop Move Assistant
 * Python Linter and Code Formatter
 
 # Refactor
