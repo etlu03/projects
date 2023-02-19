@@ -4,8 +4,9 @@
 * Packet Sniffer
 
 # Tools
+* Fuzzer
 * Huniepop Move Assistant
-* Python Linter and Code Formatter
+* SystemVerilog Linter and Code Formatter
 
 # Refactor
 * Promises Package
