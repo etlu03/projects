@@ -8,6 +8,9 @@
 * Huniepop Move Assistant
 * SystemVerilog Linter and Code Formatter
 
+# For Fun
+* Fire Emblem Heroes Summoning Simulator
+
 # Refactor
 * Promises Package
 * Playground Shell Application
